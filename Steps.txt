@@ -1,0 +1,15 @@
+1. git init
+
+2. git clone "Git link"
+
+3. git status -  (Endha Branch Untracked or Tracked)
+
+4. git add . - Activate the file
+
+5. git commit -m "Commit msg" - To know what we commit
+
+6. git push origin main - to take everything to github
+
+-------------------------SAME REPEAT FOR ALL COMMIT---------------------------------------- 
+
+7. git pull - Take everything from github to vs code editor
