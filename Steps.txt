@@ -13,3 +13,7 @@
 -------------------------SAME REPEAT FOR ALL COMMIT---------------------------------------- 
 
 7. git pull - Take everything from github to vs code editor
+
+8. SAME PROCESS FOR 2ND FOLDER INSIDE THE REPOSITORY
+
+
